@@ -1,4 +1,4 @@
-# Email-Sender
+# Email Sender
  Implemented basic email sending in Python.
 
 To setup project:
