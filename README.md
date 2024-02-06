@@ -1,5 +1,8 @@
 # Email Sender
- Implemented basic email sending in Python.
+
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
+
+Implemented basic email sending in Python.
 
 To setup project:
 1) Create an app password in Gmail (https://myaccount.google.com/apppasswords).
